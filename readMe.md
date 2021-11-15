@@ -6,6 +6,7 @@
 
 ### 包说明
 - conf ini文件类型的配置文件
+- des  常用加解密算法
 - log 个人使用的简单日志
 - tcpServer 个人使用的简单TCP通讯
 - tools 一些常用的方法
